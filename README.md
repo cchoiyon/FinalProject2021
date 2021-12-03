@@ -1,4 +1,3 @@
 # FinalProject2021
-A app that tells the users where the nearest dining places are on Temple Campus. It also allows thr users to choose from diet options such as; vegan, vegatarian, meat, halal, etc. Including the payment options that are allowed with the place, along with times, costs, and menu items if available. 
-
-Uses API for map function, also uses tkinter for the gui for the app. 
+Temple Eats is a app where the user is given options to choose from their diet needs to help them choose what restaurant to choose from. Users can see what restaurants have what payment options and browse through different places to go on Temple Campus including food trucks. 
+ 
